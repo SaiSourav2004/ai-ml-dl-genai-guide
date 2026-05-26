@@ -13,15 +13,20 @@ This article explains the relationship between AI, ML, DL, and GenAI in a beginn
 - Real-world examples
 
 ## 📝 Read the Full Article
-Medium Article: [Paste Medium Link Here]
+📖 **Medium Blog:**  
+[Read on Medium](https://medium.com/@panigrahisaisourav/a-students-guide-to-the-ai-universe-ai-ml-dl-and-genai-explained-ae51fca1ecf1)
+
+## 🔗 Connect With Me
+💼 **LinkedIn:**  
+[My LinkedIn Profile](PASTE_LINKEDIN_LINK_HERE)
 
 ## 👨‍💻 Author
 **Saisourav Panigrahi**  
-Data Science Student
+Data Science Student | AI & ML Enthusiast
 
 ## 🙏 Acknowledgement
 Special thanks to:
-- Upendra Sir
-- Sonam Ma’am (Mentor)
-- Raghu Ram Adhuri Sir (Program Manager)
+- Upendra Sir  
+- Sonam Ma’am (Mentor)  
+
 for their guidance and support in my learning journey.
