@@ -1,6 +1,7 @@
+
 # A Student’s Guide to the AI Universe: AI, ML, DL, and GenAI Explained
 
-![AI Universe Banner](<img width="815" height="465" alt="Screenshot 2026-05-26 153437" src="https://github.com/user-attachments/assets/146dd35c-a1fc-4385-9019-6667818112c4" />)
+![AI Universe Banner](https://github.com/user-attachments/assets/2231a0f9-1124-4be9-bfea-752f76b0db47)
 
 A beginner-friendly guide to understanding **Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI)** through simple explanations and real-world examples.
 
