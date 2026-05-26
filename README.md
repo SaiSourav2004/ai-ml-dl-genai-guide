@@ -1,32 +1,58 @@
-# A Student’s Guide to the AI Universe: AI, ML, DL, and GenAI Explained
+# 🧠 A Student’s Guide to the AI Universe: AI, ML, DL, and GenAI Explained
 
-Breaking down Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI in simple words with relatable examples.
+A beginner-friendly guide to understanding **Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI)** with simple explanations and real-world examples.
 
-## 📌 About
-This article explains the relationship between AI, ML, DL, and GenAI in a beginner-friendly way, especially for students entering the world of Data Science and Artificial Intelligence.
+---
+
+## 📌 About the Project
+
+This repository contains my educational article aimed at simplifying the relationship between **AI, ML, DL, and GenAI** for students and beginners entering the world of **Data Science and Artificial Intelligence**.
+
+The goal is to make complex concepts easier to understand through relatable explanations and practical examples.
+
+---
 
 ## 🚀 Topics Covered
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Deep Learning (DL)
-- Generative AI (GenAI)
-- Real-world examples
 
-## 📝 Read the Full Article
-📖 **Medium Blog:**  
-[Read on Medium](https://medium.com/@panigrahisaisourav/a-students-guide-to-the-ai-universe-ai-ml-dl-and-genai-explained-ae51fca1ecf1)
+- Artificial Intelligence (AI)  
+- Machine Learning (ML)  
+- Deep Learning (DL)  
+- Generative AI (GenAI)  
+- Real-world applications  
 
-## 🔗 Connect With Me
-💼 **LinkedIn:**  
-[My LinkedIn Profile](PASTE_LINKEDIN_LINK_HERE)
+---
+
+## 📖 Read the Full Article
+
+🔗 **Medium Article**  
+https://medium.com/@panigrahisaisourav/a-students-guide-to-the-ai-universe-ai-ml-dl-and-genai-explained-ae51fca1ecf1
+
+---
+
+## 💻 GitHub Repository
+
+🔗 Repository Link  
+https://github.com/SaiSourav2004/ai-ml-dl-genai-guide
+
+---
 
 ## 👨‍💻 Author
+
 **Saisourav Panigrahi**  
 Data Science Student | AI & ML Enthusiast
 
-## 🙏 Acknowledgement
-Special thanks to:
-- Upendra Sir  
-- Sonam Ma’am (Mentor)  
+🔗 LinkedIn  
+https://www.linkedin.com/in/saisourav-panigrahi/
 
-for their guidance and support in my learning journey.
+---
+
+## 🙏 Acknowledgement
+
+Special thanks to **Innomatics Research Labs**,  
+**Upendra Sir**, **Sonam Ma’am (Mentor)**, and  
+**Raghu Ram Adhuri Sir (Program Manager)**  
+for their valuable guidance and support throughout my learning journey.
+
+---
+
+⭐ If you found this helpful, feel free to star the repository.
